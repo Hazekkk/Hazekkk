@@ -22,7 +22,7 @@ To use this script, follow these steps:
    
 3. **Running the script:**:
 
-    Execute o script usando o seguinte comando:
+    Run the script using the following command:
 
    ```
    node index.js
