@@ -28,7 +28,7 @@ To use this script, follow these steps:
    node index.js
    ```
 
-   The script will ask you to enter the Pinterest video link and will download the video.
+The script will ask you to enter the Pinterest video link and will download the video.
 
 ## License
 
