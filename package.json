@@ -1,0 +1,21 @@
+{
+  "name": "pinterest-videos-downloader",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hazekkk/Pinterest-Videos-Downloader"
+  },
+  "author": "Haze",
+  "license": "MIT",
+  "gitignore":[
+    "node_modules/"
+  ],
+  "dependencies": {
+    "axios": "^1.5.0",
+    "readline": "^1.3.0"
+  }
+}
