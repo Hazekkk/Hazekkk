@@ -1,15 +1,43 @@
+# Pinterest Videos Downloader
+
 👋 Hello! I created this script with the aim of improving knowledge. Any help or corrections to the code will be of great help.
 
-- Download the necessary libraries:
+## Instructions for use
 
-Firstly you will need the readline library so that the script can interact with the user through the terminal (cmd).
+To use this script, follow these steps:
 
-```
-npm install readline
-```
+1. **Installing the necessary libraries**:
 
-Next you will need the axios library.
+   First, you will need the readline library so that the script can interact with the user through the terminal (cmd). Run the following command to install it:
 
-```
-npm install axios
-```
+   ```
+   npm install readline
+   ```
+   
+    Next you will need the axios library. Install it with the following command:
+   
+   ```
+   npm install axios
+   ```
+   
+3. **Running the script:**:
+
+    Execute o script usando o seguinte comando:
+
+   ```
+   node index.js
+   ```
+
+   The script will ask you to enter the Pinterest video link and will download the video.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Credits
+
+- Axios Library
+- Readline Library
+  
+Feel free to contribute and improve this project!
+   
